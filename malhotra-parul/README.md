@@ -1,6 +1,6 @@
 # Hi, I'm Parul 👋🏼 👩‍💻
 
-<img src="../gh-header-image.jpg" alt="banner that says Parul Malhotra - a full stack web developer and tech blogger alongside two illustration of Parul">
+<img src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/gh-header-image.jpg" alt="banner that says Parul Malhotra - a full stack web developer and tech blogger alongside two illustration of Parul">
 I'm a full-stack developer proficient in Javascript, React JS and Node JS.
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
