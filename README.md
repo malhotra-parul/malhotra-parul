@@ -12,7 +12,7 @@ I'm a full-stack developer proficient in Javascript, React JS and Node JS.
 - Read my blog which received 20k views on [medium](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
 - ⚡ Fun fact: I'm a 2nd Career Dev after 5+ years in QA role.
 
-## Find me around the web 🌎: <div ><div><img align="left" width="100" height="150" src="../malhotra-parul/humaaans.png"></div>
+## Find me around the web 🌎: <div ><div><img align="left" width="100" height="150" src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/humaaans.png"></div>
 <div>
 - Sharing my #100DaysOfCode journey on <a href="https://twitter.com/malhotra_parul">Twitter</a> or read on my <a href="https://medium.com/@parulm.business">Medium Blog</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/PAUMALHOTRA/pens/popular"> Codepen</a> 🏓
