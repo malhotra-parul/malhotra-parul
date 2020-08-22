@@ -5,6 +5,7 @@ I'm a full-stack developer proficient in Javascript, React JS and Node JS.
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
+- Visit my portfolio site [here](parul-malhotra.vercel.app)
 - 🔭 I’m currently working on building a SaaS application in MERN stack + AWS Lambda functions.
 - 🌱 I’m currently learning JAM stack and GraphQL.
 - 👯 I’m looking to collaborate on React based web apps.
