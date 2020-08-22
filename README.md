@@ -2,10 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/gh-header-image.jpg" alt="banner that says Parul Malhotra - a full stack web developer and tech blogger alongside two illustration of Parul">
 I'm a full-stack developer proficient in Javascript, React JS and Node JS.
+<div>
+  ## Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</a>
+</div>
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
-- Visit my portfolio site [here](parul-malhotra.vercel.app)
 - 🔭 I’m currently working on building a SaaS application in MERN stack + AWS Lambda functions.
 - 🌱 I’m currently learning JAM stack and GraphQL.
 - 👯 I’m looking to collaborate on React based web apps.
