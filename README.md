@@ -12,7 +12,7 @@ Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
 - 🔭 I’m currently working on building a SaaS application in MERN stack + AWS Lambda functions.
-- :geekyants: I am working with GeekyAnts as a [Software Developer](https://geekyants.com/parul-malhotra). 
+- 🏆 I am working with GeekyAnts as a [Software Developer](https://geekyants.com/parul-malhotra). 
 - 🌱 I’m currently learning JAM stack and GraphQL.
 - 👯 I’m looking to collaborate on React based web apps.
 - 💬 Ask me about transitioning from QA/SDET role to Development.
