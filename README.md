@@ -11,9 +11,9 @@ Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
-- 🔭 I’m currently working on building a SaaS application in MERN stack + AWS Lambda functions.
+- 🔭 I’m currently working on building a scalable backend using Moleculer.js, Apollo GraphQL and MySQL.
 - 🏆 I am working with GeekyAnts as a [Software Developer](https://geekyants.com/parul-malhotra). 
-- 🌱 I’m currently learning JAM stack and GraphQL.
+- 🌱 I’m currently improving my backend skills.
 - 👯 I’m looking to collaborate on React based web apps.
 - 💬 Ask me about transitioning from QA/SDET role to Development.
 - Read my blog which received 32k views on [medium](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
