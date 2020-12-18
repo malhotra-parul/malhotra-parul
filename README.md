@@ -11,7 +11,7 @@ Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
-- 🔭 I’m currently working on building a scalable backend using Moleculer.js, Apollo GraphQL and MySQL.
+- 🔭 I’m currently working on building a scalable backend application using Moleculer.js, Apollo GraphQL and MySQL.
 - 🏆 I am working with GeekyAnts as a [Software Developer](https://geekyants.com/parul-malhotra). 
 - 🌱 I’m currently improving my backend skills.
 - 👯 I’m looking to collaborate on React based web apps.
