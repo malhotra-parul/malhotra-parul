@@ -11,13 +11,12 @@ Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</
 
 ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=malhotra-parul&show_icons=true&count_private=true&theme=buefy)
 
-- 🔭 I’m currently working on building a scalable backend application using Moleculer.js, Apollo GraphQL and MySQL.
-- 🏆 I am working with GeekyAnts as a [Software Developer](https://geekyants.com/parul-malhotra). 
-- 🌱 I’m currently improving my backend skills.
-- 👯 I’m looking to collaborate on React based web apps.
+- 🏆 Currently exploring the Serverless ecosystem alongside AWS.
+- 🔭 I built a scalable backend application using Moleculer.js, Apollo GraphQL, MySQL and MongoDB. Played an extensive role in overall performance improvement for the APIs.
+- 🏆 Started working with GeekyAnts as a [Backend Developer](https://geekyants.com/parul-malhotra) in December, 2020. 
 - 💬 Ask me about transitioning from QA/SDET role to Development.
-- Read my blog which received 32k views on [medium](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
-- ⚡ Fun fact: I'm a 2nd Career Dev after 5+ years in QA role.
+- Read my blog which received 45k+ views on [medium](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
+- ⚡ Fun fact: I'm a 2nd Career Dev after 5+ years in SDET role.
 
 ## Find me around the web 🌎 : <div ><div><img align="left" width="100" height="150" src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/humaaans.png"></div>
 <div>
