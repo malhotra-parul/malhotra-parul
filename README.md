@@ -1,6 +1,5 @@
 # Hi, I'm Parul 👋🏼 👩‍💻
 
-<img src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/gh-header-image.jpg" alt="banner that says Parul Malhotra - a full stack web developer and tech blogger alongside two illustration of Parul">
 I'm a full-stack developer proficient in Javascript, React JS and Node JS.
 
 <div>
@@ -18,8 +17,7 @@ Check out my portfolio site: <a href="https://parul-malhotra.vercel.app/">here</
 - Read my blog which received 45k+ views on [medium](https://medium.com/better-programming/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476).
 - ⚡ Fun fact: I'm a 2nd Career Dev after 5+ years in SDET role.
 
-## Find me around the web 🌎 : <div ><div><img align="left" width="100" height="150" src="https://raw.githubusercontent.com/malhotra-parul/malhotra-parul/master/humaaans.png"></div>
-<div>
+## Find me around the web 🌎 : 
 - Sharing my #100DaysOfCode journey on <a href="https://twitter.com/malhotra_parul">Twitter</a> or read on my <a href="https://medium.com/@parulm.business">Medium Blog</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/PAUMALHOTRA/pens/popular"> Codepen</a> 🏓
 - View my past experience on  <a href="https://www.linkedin.com/in/parul-malhotra-7337871b/">LinkedIn</a> 💼
